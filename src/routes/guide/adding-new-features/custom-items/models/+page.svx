@@ -79,7 +79,7 @@ underscores (**\_**) instead of spaces.
 
 Your model file will now probably look like this:
 
-![Image](https://i.imgur.com/O0YBPuU.png)
+![json data of the model file](https://i.imgur.com/O0YBPuU.png)
 
 Replace all the values inside the `textures` bracket with `namespace:item/your_texture`.
 
